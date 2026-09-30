@@ -6,6 +6,8 @@
 
 <br>
 
+**Featured Windows tool:** [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) helps you arrange and return to a busy desktop. Windows installer release is under verification.
+
 > **我把工作里那些容易丢掉的想法、重复做的事情，做成可以真正用起来的小工具。**
 >
 > *不是为了堆更多功能，而是让下一步变得更容易。*
@@ -40,8 +42,6 @@ I turn recurring work into practical tools. Some are free to share; others are b
 <td width="25%"><b>有些问题想继续想</b><br>→ 回声 APP</td>
 </tr>
 </table>
-
-**正在做 Windows 多窗口工作？** [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) 把窗口排布、筛选和常用布局放在一起，适合同时处理多个应用或账号。它是我与 BFTools 团队共创的商业软件；公开页面会注明试用和订阅方式。
 
 ---
 
