@@ -10,8 +10,10 @@
 >
 > *不是为了堆更多功能，而是让下一步变得更容易。*
 
-[![Free to use](https://img.shields.io/badge/个人使用版-免费分享-2ea44f?style=flat-square)](https://afdian.com/a/lydiahub2026)
-[![Local first](https://img.shields.io/badge/Local--first-本地优先-6f42c1?style=flat-square)](#我在做什么)
+I turn recurring work into practical tools. Some are free to share; others are built with a team and offered as paid products.
+
+[![Built from real work](https://img.shields.io/badge/来自真实工作-持续打磨-2ea44f?style=flat-square)](#我在做什么)
+[![Windows tools](https://img.shields.io/badge/Windows-BFTiles-6f42c1?style=flat-square)](https://github.com/mercedesbestsupplier-maker/BFTiles)
 [![Open to feedback](https://img.shields.io/badge/欢迎反馈-Issues-0969da?style=flat-square)](#获取与交流)
 
 [开始使用](GETTING-STARTED.md) · [我在做什么](#我在做什么) · [为什么做](#为什么做) · [获取与交流](#获取与交流)
@@ -26,9 +28,9 @@
 
 1. 按你的问题挑一个产品；
 2. 打开[上手页](GETTING-STARTED.md)，先看适用场景和安装方式；
-3. 到[爱发电领取与更新入口](https://afdian.com/a/lydiahub2026)获取当前版本。
+3. 到对应产品页查看当前可用版本和获取方式；基础工具也可从[爱发电入口](https://afdian.com/a/lydiahub2026)领取。
 
-基础版本免费分享。遇到问题可以提 Issue，也可以在抖音主页群聊里交流；需要定制、部署适配或长期维护，再单独联系。
+有些基础工具免费分享，也有试用后付费的产品；每个工具的获取方式以自己的产品页为准。遇到问题可以提 Issue，也可以在抖音主页群聊里交流；需要定制、部署适配或长期维护，再单独联系。
 
 <table>
 <tr>
@@ -39,9 +41,15 @@
 </tr>
 </table>
 
+**正在做 Windows 多窗口工作？** [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) 把窗口排布、筛选和常用布局放在一起，适合同时处理多个应用或账号。它是我与 BFTools 团队共创的商业软件；公开页面会注明试用和订阅方式。
+
 ---
 
 ## 我在做什么
+
+### BFTiles · 让一屏多开更清楚
+
+窗口开得多时，麻烦常常不是“排不整齐”，而是下次打开又要从头找、从头摆。我和 BFTools 团队正在让排布更快、窗口更好辨认，并把 Windows 安装包的获取、更新与问题反馈放到独立的 [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles)。这是试用后付费的产品，应用源码保持私有。
 
 ### Obsidian 工作流 · 让记录继续走下去
 
@@ -83,11 +91,12 @@
 
 ## 获取与交流
 
-- [工具领取与更新入口（爱发电）](https://afdian.com/a/lydiahub2026)
+- [基础工具领取与更新入口（爱发电）](https://afdian.com/a/lydiahub2026)
+- [BFTiles 的 Windows 版本与反馈](https://github.com/mercedesbestsupplier-maker/BFTiles)
 - 使用问题、建议和 Bug，欢迎在对应仓库提交 Issue
 - 微信：`lydiahub2026`
 
-个人使用版和基础工具会免费分享。企业或团队如果需要定制功能、部署适配、数据迁移或长期维护，再单独沟通。
+部分个人工具和基础版本会免费分享；BFTiles 等商业产品会在各自页面说明试用和订阅条件。企业或团队如果需要定制功能、部署适配、数据迁移或长期维护，再单独沟通。
 
 ## 我相信
 
