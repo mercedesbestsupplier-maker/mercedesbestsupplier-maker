@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">BFTools product desk</title>
-  <desc id="desc">Three tools for arranging windows, producing content, and customizing a workspace.</desc>
+  <title id="title">BFTools product collection</title>
+  <desc id="desc">BFTools makes tools for arranging windows, producing content, and customizing a workspace.</desc>
   <rect width="1200" height="320" rx="20" fill="#11232A"/>
   <path d="M0 258H1200" stroke="#31505A"/>
   <path d="M60 0V320M1140 0V320" stroke="#31505A" stroke-opacity=".5"/>
-  <text x="66" y="75" fill="#8DE0C5" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4">BFTools / PRODUCT DESK</text>
+  <text x="66" y="75" fill="#8DE0C5" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4">BFTools / PRODUCT COLLECTION</text>
   <text x="64" y="160" fill="#F4F6F1" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Work, made clearer.</text>
   <text x="66" y="207" fill="#B6C9C9" font-family="Arial, Helvetica, sans-serif" font-size="22">Windows · content · your workspace.</text>
   <g transform="translate(815 46)" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">

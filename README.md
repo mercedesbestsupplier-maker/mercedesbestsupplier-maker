@@ -2,11 +2,11 @@
 
 <img src="assets/hero.svg" alt="BFTools: tools for window layouts, content work, and Codex" width="100%">
 
-# BFTools · Product desk
+# BFTools · Practical software for everyday work
 
-**Practical tools for window layouts, content work, and everyday desktop workflows.**
+We build tools for people managing busy desktops, producing content, and shaping their workspaces. Choose a product by the task you need to complete, then check its page for the current way to get it.
 
-[Explore the tools](#products) · [Getting started](GETTING-STARTED.md) · [Company website](https://bifang.tools/) · [Lydia's independent work](https://github.com/lydiahub2026)
+[Explore products](#products) · [Choose a tool](GETTING-STARTED.md) · [Company website](https://bifang.tools/)
 
 </div>
 
@@ -30,10 +30,10 @@ Browse real Codex workspace previews and theme guidance in the public showcase. 
 
 - **Want to try a tool?** Open its linked product page for the current download status. A public installer appears only after its own testing is complete.
 - **Need help or have an idea?** Use the issue tracker on the relevant public product page. For BFTiles, use [BFTiles Issues](https://github.com/mercedesbestsupplier-maker/BFTiles/issues).
-- **Looking for the company?** Visit [BFTools](https://bifang.tools/). This account is Lydia's public product and collaboration desk, not a replacement for the company's own channels.
+- **Looking for the company?** Visit [BFTools](https://bifang.tools/) for the company website and its official contact routes.
 
 中文：这里展示与毕方团队合作的窗口排布、内容生产和 Codex 界面工具，并分别写清获取方式和当前状态。BFTiles 安装包仍在 Windows 实机验收中；内容生产助手的完整流程也仍需验收。不会把“开发完成”当作“安装可用”。
 
-## More from Lydia
+## Independent projects from Lydia
 
-Lydia also builds independent tools and websites. Her [personal GitHub](https://github.com/lydiahub2026) is the home for those projects, including the live [CoverCalc Pro](https://covercalcpro.com/) website. Personal experiments are listed there so this product desk stays focused on team work.
+Lydia also builds independent tools and websites. Those projects belong on her [personal GitHub](https://github.com/lydiahub2026), including the live [CoverCalc Pro](https://covercalcpro.com/) website.
