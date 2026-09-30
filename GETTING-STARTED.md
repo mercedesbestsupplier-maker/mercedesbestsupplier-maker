@@ -1,5 +1,13 @@
 # Getting started with BFTools products
 
+Choose the tool for the work you need to do:
+
+| Need | Start here | Current entry |
+| --- | --- | --- |
+| Arrange many Windows windows | BFTiles | [Product guide](https://github.com/mercedesbestsupplier-maker/BFTiles); installer verification in progress |
+| Produce technical articles or image-and-text notes | 毕方内容生产助手 | Product information on the [profile](README.md); public download not yet available |
+| Customize a Codex workspace | 毕方 Codex 皮肤工坊 | [Real previews and acquisition details](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
+
 ## BFTiles for Windows
 
 1. Read the [product guide](https://github.com/mercedesbestsupplier-maker/BFTiles) to see what the current version supports.
