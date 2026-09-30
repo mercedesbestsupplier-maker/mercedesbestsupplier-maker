@@ -1,32 +1,14 @@
-# Lydiahub · 从这里开始
+# Getting started with BFTools products
 
-这里不是产品目录，而是一张“先选问题，再选工具”的入口页。
+## BFTiles for Windows
 
-## 1. 你想解决什么？
+1. Read the [product guide](https://github.com/mercedesbestsupplier-maker/BFTiles) to see what the current version supports.
+2. Check [Releases](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) for a verified installer. There is no public GitHub installer release yet.
+3. When a release is available, use its version notes and checksum to identify the download.
+4. Report installation or use problems in the [issue tracker](https://github.com/mercedesbestsupplier-maker/BFTiles/issues).
 
-| 你的情况 | 先试这个 | 它解决什么 |
-| --- | --- | --- |
-| 灵感和待办总是在切换应用时丢掉 | [Obsidian 工作流](README.md#obsidian-工作流--让记录继续走下去) | 桌面快速记录 → Markdown → Obsidian / Codex 复盘 |
-| Windows 一屏开着许多窗口，任务和账号容易看混 | [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) | 排布与保存常用布局；试用和订阅见产品页 |
-| 每天长时间使用 Codex，想换一个更顺手的界面 | [Codex 皮肤与管理工具](README.md#codex-皮肤与管理工具--让工作界面更像自己的) | 预览、安装、切换、恢复，也能自己制作皮肤 |
-| 选题、资料整理、内容生产有大量重复步骤 | [WorkBuddy 数字员工工作台](README.md#workbuddy-数字员工工作台--把重复工作交给流程) | 把重复步骤变成可执行、可复用的工作流 |
-| 想把人生阶段的感受和选择留下来 | [回声 APP](README.md#回声-app--给重要的问题留一段可以回来的对话) | 把模糊的感受说清楚，之后还能回来继续对话 |
+BFTiles is commercial, closed-source software developed by the BFTools team. Trial and subscription terms are described on its product page; confirm the final price in the checkout before paying.
 
-## 2. 获取当前版本
+## Other work
 
-不同工具的获取方式不同：
-
-- [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles)：版本说明和反馈入口；Windows 安装包将在实机验收后发布；
-- [爱发电入口](https://afdian.com/a/lydiahub2026)：目前在这里分享的个人基础工具。
-
-下载前请先看对应说明文件。不同产品的系统要求和安装方式不一样，不要把一个产品的安装包放到另一个产品的目录里。
-
-## 3. 使用中遇到问题
-
-- 代码问题、安装问题或功能建议：在对应 GitHub 仓库提交 Issue；
-- 想看真实使用过程：关注短视频里的后续演示和更新；
-- 需要企业/团队定制、部署适配、数据迁移或长期维护：微信 `lydiahub2026`。
-
-## 4. 我会怎样更新
-
-先把真实使用中的卡点做成能用的版本，再根据反馈修复和迭代。部分基础工具免费分享；商业软件和定制服务会分别写清试用、价格与支持范围。
+For Lydia's independent projects and websites, visit [LydiaHub](https://github.com/lydiahub2026). For company information, visit [BFTools](https://bifang.tools/).
