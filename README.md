@@ -38,4 +38,4 @@ Browse real Codex workspace previews and theme guidance in the public showcase. 
 
 ## Explore Lydia's independent projects
 
-Lydia also builds independent tools and websites. Start at her [personal GitHub](https://github.com/lydiahub2026), or open a project directly: [CoverCalc Pro](https://covercalcpro.com/) for landscape calculations and [Say It Plainly](https://github.com/lydiahub19921013/shuorenhua) for reviewing a clear reply to a confusing message. Each page states its current platform and availability.
+Lydia also builds independent tools and websites. Start at her [personal GitHub](https://github.com/lydiahub2026) to choose by task. Her live [CoverCalc Pro](https://covercalcpro.com/) site is one example; the profile lists each project's current platform and availability.
