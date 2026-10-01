@@ -1,41 +1,74 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="BFTools: tools for window layouts, content work, and Codex" width="100%">
+# BFTools
 
-# BFTools · Practical software for everyday work
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
+  <img src="assets/hero.svg" alt="BFTools · Tools for the work you repeat" width="100%">
+</picture>
 
-We build tools for people managing busy desktops, producing content, and shaping their workspaces. Choose a product by the task you need to complete, then check its page for the current way to get it.
+> **Open the right window. Find a clear next step. Get back to your work.**
+>
+> When your day is split between many windows, content tasks, and a workspace you stare at for hours, small frustrations add up. We build tools to make those repeated steps easier.
 
-[Explore products](#products) · [Choose a tool](GETTING-STARTED.md) · [Lydia's independent tools](https://github.com/lydiahub2026) · [Company website](https://bifang.tools/)
+**窗口少找一会儿，流程少绕一圈，把时间留给真正要完成的事。**
 
-团队产品在这里。想看 Lydia 独立制作的网站和小工具？[从 LydiaHub 按任务选择](https://github.com/lydiahub2026#start-with-your-task)。
+[Find a tool](#products) · [Getting started](GETTING-STARTED.md) · [Company website](https://bifang.tools/) · [Lydia's independent work](https://github.com/lydiahub2026)
 
 </div>
 
+---
+
 ## Products
 
-### [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) · Make a busy Windows desktop easier to manage
+| A moment you may recognize | Start here | Current entry |
+| --- | --- | --- |
+| I spend too much time moving windows and finding the one I need | [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) | Windows product guide; GitHub installer release pending |
+| I need to produce content, and want a clear place to start | 毕方内容生产助手 · Content production assistant | Windows workflow validation in progress |
+| I look at this workspace for hours. I'd like it to feel more like mine | [Codex 皮肤工坊 · Skin Workshop](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | Real previews and theme collection |
 
-Arrange and return to a workspace with many open windows. The public product guide is available now; the Windows installer is still being verified before a GitHub release.
+### BFTiles · Put your windows in order, then keep that layout
 
-BFTiles is developed by the BFTools team. Lydia contributes product direction and international user experience work, and maintains its [public product page](https://github.com/mercedesbestsupplier-maker/BFTiles). The application is commercial and closed source; the public repository contains documentation and feedback channels, not its application source.
+A task can need several apps or accounts open at once. After another restart or another round of window switching, arranging the same desktop again costs time.
 
-### 毕方内容生产助手 · Produce content with a clear workflow
+BFTiles arranges selected Windows windows in a grid, stack, or cascade. Save a useful layout and reuse it when the same task comes around. You can filter the windows you want to include and adjust their size, position, and spacing.
 
-For content operators: find comparable work, choose a production path, create a draft with your own AI API, review it, then save or export. The Windows versions separate technical long-form articles for CSDN and 百家号 from image-and-text notes for 小红书. The team source is private. Installation and full workflow testing are still being completed, so there is no public download linked here yet.
+**[See what BFTiles does](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [Download status](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [Share a problem or idea](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
 
-### [毕方 Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) · Make a long workday easier on the eyes
+The product guide is public. A verified Windows installer will appear in GitHub Releases after device validation. BFTiles is commercial software developed by the BFTools team.
 
-Browse real Codex workspace previews and theme guidance in the public showcase. The [showcase page](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) explains where the available themes can be obtained; it is not the application source or an installer release.
+### 毕方内容生产助手 · Know the next step in producing content
 
-## For customers
+Content operators need a path they can follow: find comparable work, choose a direction, produce a draft, review it, and save or export the result.
 
-- **Want to try a tool?** Open its linked product page for the current download status. A public installer appears only after its own testing is complete.
-- **Need help or have an idea?** Use the issue tracker on the relevant public product page. For BFTiles, use [BFTiles Issues](https://github.com/mercedesbestsupplier-maker/BFTiles/issues).
-- **Looking for the company?** Visit [BFTools](https://bifang.tools/) for the company website and its official contact routes.
+The tool is being organized around that workflow. CSDN technical articles, Baijiahao long-form articles, and Xiaohongshu image-and-text notes have their own production paths. Users connect their own AI API in the settings and can work from an idea, a reference, or a saved style.
 
-中文：这里展示与毕方团队合作的窗口排布、内容生产和 Codex 界面工具，并分别写清获取方式和当前状态。BFTiles 安装包仍在 Windows 实机验收中；内容生产助手的完整流程也仍需验收。不会把“开发完成”当作“安装可用”。
+**Current status:** Windows installation and the complete production workflow are still being validated. Public download details will be added here after that work is complete.
 
-## Explore Lydia's independent projects
+中文：入口统一叫“内容生产”。先选自己要做的事，再选平台；长文章和图文笔记按各自的形式处理，让运营人员知道接下来该点哪里。
 
-Lydia also builds independent tools and websites. Start at her [personal GitHub](https://github.com/lydiahub2026) to choose by task. Her live [CoverCalc Pro](https://covercalcpro.com/) site is one example; the profile lists each project's current platform and availability.
+### Codex 皮肤工坊 · Make the workspace feel like yours
+
+The interface you look at for hours deserves some care. A theme should still let you read the task, see the changes, and understand the result.
+
+The showcase uses screenshots from real Codex work, with tasks, files, and tests still in view. Open it to compare the themes and find the current collection.
+
+**[See real workspace previews](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)**
+
+## Made with the team
+
+These tools bring together product work and the experience of the BFTools developers. Lydia contributes product direction and international user experience, and maintains the public product pages.
+
+Want to see what she builds independently? Her [LydiaHub profile](https://github.com/lydiahub2026) starts with the problem a person is trying to solve: an unclear message, another round of changed requirements, an inquiry sheet, or a materials purchase that needs checking.
+
+**[Explore Lydia's small tools and websites](https://github.com/lydiahub2026#按你现在卡住的事来选)**
+
+## Try a tool or tell us what gets in your way
+
+Open a product page for its current version and way to get started. For a BFTiles bug or feature request, use [BFTiles Issues](https://github.com/mercedesbestsupplier-maker/BFTiles/issues). For company information and official contact routes, visit [bifang.tools](https://bifang.tools/).
+
+中文：这里是毕方团队的产品集合。按你正在做的工作选择工具，产品页会写清获取方式、适用平台和当前版本。
+
+---
+
+**A good tool gives you more time for the work you came to do.**

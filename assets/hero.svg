@@ -1,23 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">BFTools product collection</title>
-  <desc id="desc">BFTools makes tools for arranging windows, producing content, and customizing a workspace.</desc>
-  <rect width="1200" height="320" rx="20" fill="#11232A"/>
-  <path d="M0 258H1200" stroke="#31505A"/>
-  <path d="M60 0V320M1140 0V320" stroke="#31505A" stroke-opacity=".5"/>
-  <text x="66" y="75" fill="#8DE0C5" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="4">BFTools / PRODUCT COLLECTION</text>
-  <text x="64" y="160" fill="#F4F6F1" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">Work, made clearer.</text>
-  <text x="66" y="207" fill="#B6C9C9" font-family="Arial, Helvetica, sans-serif" font-size="22">Windows · content · your workspace.</text>
-  <g transform="translate(815 46)" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">
-    <rect x="0" y="0" width="308" height="65" rx="10" fill="#193A42" stroke="#75C9BB" stroke-width="2"/>
-    <rect x="19" y="18" width="31" height="29" rx="4" fill="none" stroke="#A4DFD0" stroke-width="2"/>
-    <path d="M34 18V47M19 32H50" stroke="#A4DFD0" stroke-width="2"/>
-    <text x="66" y="41" fill="#E8F5F0">Arrange windows</text>
-    <rect x="0" y="78" width="308" height="65" rx="10" fill="#193A42" stroke="#75C9BB" stroke-width="2"/>
-    <path d="M20 100H48M20 110H48M20 120H40" stroke="#A4DFD0" stroke-width="3" stroke-linecap="round"/>
-    <text x="66" y="119" fill="#E8F5F0">Produce content</text>
-    <rect x="0" y="156" width="308" height="65" rx="10" fill="#193A42" stroke="#75C9BB" stroke-width="2"/>
-    <circle cx="34" cy="189" r="16" fill="none" stroke="#A4DFD0" stroke-width="2"/>
-    <path d="M34 173V205M18 189H50" stroke="#A4DFD0" stroke-width="2"/>
-    <text x="66" y="197" fill="#E8F5F0">Shape your workspace</text>
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">BFTools · Tools for the work you repeat</title>
+  <desc id="desc">Window layouts, content production and a workspace that feels like yours, in the navy and indigo visual family of LydiaHub.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.55" stop-color="#1F2937"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="70" y1="50" x2="1040" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="1040" cy="-10" r="260" fill="url(#glow)"/>
+  <circle cx="80" cy="380" r="220" fill="#0EA5E9" fill-opacity="0.07"/>
+  <text x="72" y="92" fill="#A5F3FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" letter-spacing="3">BFTools</text>
+  <text x="72" y="158" fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="50" font-weight="700">Tools for the work you repeat.</text>
+  <text x="74" y="199" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">Less time switching. More room to get things done.</text>
+  <g filter="url(#shadow)">
+    <rect x="72" y="252" width="338" height="112" rx="18" fill="#F8FAFC"/>
+    <rect x="430" y="252" width="338" height="112" rx="18" fill="#F8FAFC"/>
+    <rect x="788" y="252" width="340" height="112" rx="18" fill="#F8FAFC"/>
   </g>
+  <rect x="97" y="275" width="26" height="24" rx="4" fill="#8B5CF6"/>
+  <path d="M110 275V299M97 287H123" stroke="white" stroke-width="2"/>
+  <text x="139" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">BFTiles</text>
+  <text x="97" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Keep your windows in order</text>
+  <circle cx="468" cy="287" r="14" fill="#06B6D4"/>
+  <path d="M461 282H475M461 287H475M461 292H471" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <text x="497" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">Content production</text>
+  <text x="454" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Know what to do next</text>
+  <circle cx="826" cy="287" r="14" fill="#EC4899"/>
+  <path d="M818 287H834M826 279V295" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <text x="855" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">Codex Skin Workshop</text>
+  <text x="812" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">A workspace that feels like yours</text>
 </svg>
