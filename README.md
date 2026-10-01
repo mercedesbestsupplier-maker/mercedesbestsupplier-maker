@@ -6,7 +6,9 @@
 
 We build tools for people managing busy desktops, producing content, and shaping their workspaces. Choose a product by the task you need to complete, then check its page for the current way to get it.
 
-[Explore products](#products) · [Choose a tool](GETTING-STARTED.md) · [Company website](https://bifang.tools/)
+[Explore products](#products) · [Choose a tool](GETTING-STARTED.md) · [Lydia's independent tools](https://github.com/lydiahub2026) · [Company website](https://bifang.tools/)
+
+团队产品在这里。想看 Lydia 独立制作的网站和小工具？[从 LydiaHub 按任务选择](https://github.com/lydiahub2026#start-with-your-task)。
 
 </div>
 
@@ -34,6 +36,6 @@ Browse real Codex workspace previews and theme guidance in the public showcase. 
 
 中文：这里展示与毕方团队合作的窗口排布、内容生产和 Codex 界面工具，并分别写清获取方式和当前状态。BFTiles 安装包仍在 Windows 实机验收中；内容生产助手的完整流程也仍需验收。不会把“开发完成”当作“安装可用”。
 
-## Independent projects from Lydia
+## Explore Lydia's independent projects
 
-Lydia also builds independent tools and websites. Those projects belong on her [personal GitHub](https://github.com/lydiahub2026), including the live [CoverCalc Pro](https://covercalcpro.com/) website.
+Lydia also builds independent tools and websites. Start at her [personal GitHub](https://github.com/lydiahub2026), or open a project directly: [CoverCalc Pro](https://covercalcpro.com/) for landscape calculations and [Say It Plainly](https://github.com/lydiahub19921013/shuorenhua) for reviewing a clear reply to a confusing message. Each page states its current platform and availability.
