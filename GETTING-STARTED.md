@@ -21,7 +21,7 @@ BFTiles 是毕方团队开发的商业闭源软件。试用与订阅规则见产
 
 ## 其他作品
 
-Lydia 的个人独立项目与网站见 [LydiaHub](https://github.com/lydiahub2026)。团队信息见[毕方网站](https://bifang.tools/)。
+Lydia 的个人独立项目见 [LydiaTools 个人 GitHub](https://github.com/LydiaTools)。国内内容更新见[团队主页的社媒入口](README.md#内容与社媒)。
 
 ## 皮肤工坊的原作与优化
 
