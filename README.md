@@ -1,6 +1,12 @@
 <div align="center">
 
-# BFTools
+# 毕方 BFTOOLS · 团队
+
+**团队产品与协作入口 / Team products and collaborations**
+
+这里主要介绍毕方运营工具和窗口排布产品；Lydia 负责运营工具的推广与用户沟通。个人独立作品与个人优化版本请访问 [LydiaHub](https://github.com/lydiahub2026)。
+
+This is the Bifang (BFTOOLS) team page. Lydia focuses on promoting the content-operations product. Independent work and personal enhancement versions are presented through [LydiaHub](https://github.com/lydiahub2026#english).
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
@@ -23,8 +29,8 @@
 
 | A moment you may recognize | Start here | Current entry |
 | --- | --- | --- |
-| I spend too much time moving windows and finding the one I need | [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) | Windows product guide; GitHub installer release pending |
 | I need to produce content, and want a clear place to start | 毕方内容生产助手 · Content production assistant | Windows workflow validation in progress |
+| I spend too much time moving windows and finding the one I need | [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) | Windows product guide; GitHub installer release pending |
 | I look at this workspace for hours. I'd like it to feel more like mine | [Codex 皮肤工坊 · Skin Workshop](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | Real previews and theme collection |
 
 ### BFTiles · Put your windows in order, then keep that layout
@@ -54,6 +60,13 @@ The interface you look at for hours deserves some care. A theme should still let
 The showcase uses screenshots from real Codex work, with tasks, files, and tests still in view. Open it to compare the themes and find the current collection.
 
 **[See real workspace previews](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)**
+
+**原作与贡献 / Original work and contributions**
+
+皮肤工坊的原始应用由团队同事开发。Lydia 在同事原作基础上进行功能优化，并整理与扩充了数百款皮肤；原始开发与后续优化分别署名。
+
+The original Skin Workshop application was developed by a BFTOOLS teammate. Lydia contributes feature enhancements and a collection of several hundred skins. Original development and later enhancements are credited separately.
+
 
 ## Made with the team
 
