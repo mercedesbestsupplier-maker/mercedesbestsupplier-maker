@@ -4,7 +4,7 @@
 
 | 你要做的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
-| 生产技术文章或图文笔记 | 毕方内容生产助手 | [团队主页](README.md)有产品说明；公开下载尚未开放 |
+| 生产技术文章或图文笔记 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；公开下载尚未开放 |
 | 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；安装包验收中 |
 | 定制 Codex 工作台外观 | 毕方 Codex 皮肤工坊 | [真实预览与获取说明](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 
@@ -25,4 +25,4 @@ Lydia 的个人独立项目见 [LydiaTools 个人 GitHub](https://github.com/Lyd
 
 ## 皮肤工坊的原作与优化
 
-原始应用由毕方团队同事 [@luhaozwork](https://github.com/luhaozwork) 开发；Lydia 贡献功能优化，以及数百款皮肤的整理与扩充。个人优化版本和独立作品见 [LydiaHub](https://github.com/lydiahub2026)。
+原始应用由毕方团队同事 [@luhaozwork](https://github.com/luhaozwork) 开发；Lydia 贡献功能优化，以及数百款皮肤的整理与扩充。个人优化版本和独立作品见 [LydiaTools](https://github.com/LydiaTools)。
