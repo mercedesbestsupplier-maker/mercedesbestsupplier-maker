@@ -1,6 +1,6 @@
 <svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">BFTools · Tools for the work you repeat</title>
-  <desc id="desc">Window layouts, content production and a workspace that feels like yours, in the navy and indigo visual family of LydiaHub.</desc>
+  <title id="title">毕方 BFTOOLS · 让重复工作更省心</title>
+  <desc id="desc">窗口排布、内容生产和更像自己的工作台，延续现有深蓝与靛蓝视觉。</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
       <stop stop-color="#111827"/>
@@ -18,9 +18,9 @@
   <rect width="1200" height="420" rx="28" fill="url(#bg)"/>
   <circle cx="1040" cy="-10" r="260" fill="url(#glow)"/>
   <circle cx="80" cy="380" r="220" fill="#0EA5E9" fill-opacity="0.07"/>
-  <text x="72" y="92" fill="#A5F3FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" letter-spacing="3">BFTools</text>
-  <text x="72" y="158" fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="50" font-weight="700">Tools for the work you repeat.</text>
-  <text x="74" y="199" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">Less time switching. More room to get things done.</text>
+  <text x="72" y="92" fill="#A5F3FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="18" letter-spacing="3">毕方 BFTOOLS</text>
+  <text x="72" y="158" fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="50" font-weight="700">让重复工作更省心。</text>
+  <text x="74" y="199" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="20">少一点来回切换，多一点时间把事情做完。</text>
   <g filter="url(#shadow)">
     <rect x="72" y="252" width="338" height="112" rx="18" fill="#F8FAFC"/>
     <rect x="430" y="252" width="338" height="112" rx="18" fill="#F8FAFC"/>
@@ -29,13 +29,13 @@
   <rect x="97" y="275" width="26" height="24" rx="4" fill="#8B5CF6"/>
   <path d="M110 275V299M97 287H123" stroke="white" stroke-width="2"/>
   <text x="139" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">BFTiles</text>
-  <text x="97" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Keep your windows in order</text>
+  <text x="97" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">把窗口排好，下次接着用</text>
   <circle cx="468" cy="287" r="14" fill="#06B6D4"/>
   <path d="M461 282H475M461 287H475M461 292H471" stroke="white" stroke-width="2" stroke-linecap="round"/>
-  <text x="497" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">Content production</text>
-  <text x="454" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">Know what to do next</text>
+  <text x="497" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">内容生产</text>
+  <text x="454" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">知道接下来该做什么</text>
   <circle cx="826" cy="287" r="14" fill="#EC4899"/>
   <path d="M818 287H834M826 279V295" stroke="white" stroke-width="2" stroke-linecap="round"/>
-  <text x="855" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">Codex Skin Workshop</text>
-  <text x="812" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">A workspace that feels like yours</text>
+  <text x="855" y="294" fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22" font-weight="700">Codex 皮肤工坊</text>
+  <text x="812" y="329" fill="#475569" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="17">让工作台更像自己</text>
 </svg>

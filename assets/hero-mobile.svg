@@ -1,13 +1,13 @@
 <svg width="600" height="500" viewBox="0 0 600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
-  <title id="title">BFTools · Tools for the work you repeat</title>
+  <title id="title">毕方 BFTOOLS · 让重复工作更省心</title>
   <defs><linearGradient id="bg" x1="0" y1="0" x2="600" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#111827"/><stop offset="0.55" stop-color="#1F2937"/><stop offset="1" stop-color="#312E81"/></linearGradient></defs>
   <rect width="600" height="500" rx="24" fill="url(#bg)"/>
   <circle cx="540" cy="25" r="180" fill="#67E8F9" fill-opacity="0.06"/>
-  <text x="44" y="62" fill="#A5F3FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24">BFTools</text>
-  <g fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="45" font-weight="700"><text x="42" y="125">Tools for the work</text><text x="42" y="181">you repeat.</text></g>
-  <text x="44" y="226" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22">Less switching. More doing.</text>
+  <text x="44" y="62" fill="#A5F3FC" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24">毕方 BFTOOLS</text>
+  <g fill="white" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="45" font-weight="700"><text x="42" y="125">反复要做的事，</text><text x="42" y="181">可以更省心。</text></g>
+  <text x="44" y="226" fill="#CBD5E1" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="22">少一点切换，多一点完成。</text>
   <g fill="#F8FAFC"><rect x="44" y="266" width="512" height="64" rx="14"/><rect x="44" y="344" width="512" height="64" rx="14"/><rect x="44" y="422" width="512" height="64" rx="14"/></g>
   <rect x="66" y="285" width="26" height="26" rx="4" fill="#8B5CF6"/><path d="M79 285V311M66 298H92" stroke="white" stroke-width="2"/>
   <circle cx="79" cy="376" r="13" fill="#06B6D4"/><circle cx="79" cy="454" r="13" fill="#EC4899"/>
-  <g fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="26" font-weight="700"><text x="112" y="307">BFTiles</text><text x="112" y="385">Content production</text><text x="112" y="463">Codex Skin Workshop</text></g>
+  <g fill="#111827" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="26" font-weight="700"><text x="112" y="307">BFTiles</text><text x="112" y="385">内容生产</text><text x="112" y="463">Codex 皮肤工坊</text></g>
 </svg>

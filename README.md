@@ -2,86 +2,94 @@
 
 # 毕方 BFTOOLS · 团队
 
-**团队产品与协作入口 / Team products and collaborations**
+**团队产品与协作入口**
 
 这里主要介绍毕方运营工具和窗口排布产品；Lydia 负责运营工具的推广与用户沟通。个人独立作品与个人优化版本请访问 [LydiaHub](https://github.com/lydiahub2026)。
 
-This is the Bifang (BFTOOLS) team page. Lydia focuses on promoting the content-operations product. Independent work and personal enhancement versions are presented through [LydiaHub](https://github.com/lydiahub2026#english).
-
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="BFTools · Tools for the work you repeat" width="100%">
+  <img src="assets/hero.svg" alt="毕方 BFTOOLS · 让重复工作更省心" width="100%">
 </picture>
 
-> **Open the right window. Find a clear next step. Get back to your work.**
+> **打开需要的窗口，找到清楚的下一步，回到真正要做的事。**
 >
-> When your day is split between many windows, content tasks, and a workspace you stare at for hours, small frustrations add up. We build tools to make those repeated steps easier.
+> 一天被多个窗口、内容任务和长时间面对的工作台分开时，小麻烦会一点点累积。我们做这些工具，是为了让反复要走的步骤更顺一点。
 
 **窗口少找一会儿，流程少绕一圈，把时间留给真正要完成的事。**
 
-[Find a tool](#products) · [Getting started](GETTING-STARTED.md) · [Company website](https://bifang.tools/) · [Lydia's independent work](https://github.com/lydiahub2026)
+[按工作选工具](#products) · [从这里开始](GETTING-STARTED.md) · [团队网站](https://bifang.tools/) · [Lydia 的个人作品](https://github.com/lydiahub2026)
 
 </div>
 
 ---
 
-## Products
+<a id="products"></a>
 
-| A moment you may recognize | Start here | Current entry |
+## 按你正在做的事选产品
+
+| 你可能正在遇到的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
-| I need to produce content, and want a clear place to start | 毕方内容生产助手 · Content production assistant | Windows workflow validation in progress |
-| I spend too much time moving windows and finding the one I need | [BFTiles](https://github.com/mercedesbestsupplier-maker/BFTiles) | Windows product guide; GitHub installer release pending |
-| I look at this workspace for hours. I'd like it to feel more like mine | [Codex 皮肤工坊 · Skin Workshop](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | Real previews and theme collection |
+| 要做内容，希望知道先从哪一步开始 | 毕方内容生产助手 | Windows 完整流程验收中 |
+| 花太多时间挪窗口、找窗口 | [BFTiles 窗口排布](https://github.com/mercedesbestsupplier-maker/BFTiles) | Windows 产品介绍；GitHub 安装包待发布 |
+| 每天面对这个工作台，想让它更像自己 | [Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | 真实运行预览与皮肤合集 |
 
-### BFTiles · Put your windows in order, then keep that layout
+### BFTiles · 把窗口排好，下次接着用
 
-A task can need several apps or accounts open at once. After another restart or another round of window switching, arranging the same desktop again costs time.
+一项工作可能需要同时打开几个应用或账号。重新开机、来回切换之后，再把同一个桌面排一遍，也要花时间。
 
-BFTiles arranges selected Windows windows in a grid, stack, or cascade. Save a useful layout and reuse it when the same task comes around. You can filter the windows you want to include and adjust their size, position, and spacing.
+BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把好用的布局保存下来，下次做同样的事时继续用。你可以筛选要参与排布的窗口，再调整大小、位置和间距。
 
-**[See what BFTiles does](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [Download status](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [Share a problem or idea](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
+**[查看窗口排布功能](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [查看下载状态](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [反馈问题或想法](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
 
-The product guide is public. A verified Windows installer will appear in GitHub Releases after device validation. BFTiles is commercial software developed by the BFTools team.
+产品介绍已公开。Windows 安装包完成设备验收后，会发布到 GitHub 的版本下载页。BFTiles 是毕方团队开发的商业软件。
 
-### 毕方内容生产助手 · Know the next step in producing content
+### 毕方内容生产助手 · 知道接下来该做什么
 
-Content operators need a path they can follow: find comparable work, choose a direction, produce a draft, review it, and save or export the result.
+内容运营需要一条走得下去的路径：找对标、选方向、出草稿、审内容，再保存或导出结果。
 
-The tool is being organized around that workflow. CSDN technical articles, Baijiahao long-form articles, and Xiaohongshu image-and-text notes have their own production paths. Users connect their own AI API in the settings and can work from an idea, a reference, or a saved style.
+工具围绕这条流程组织入口。CSDN 技术文章、百家号长文章、小红书图文笔记，分别有适合自己的内容生产路径。用户在设置中接入自己的 AI 接口，可以从一个想法、一份参考或已经保存的风格开始。
 
-**Current status:** Windows installation and the complete production workflow are still being validated. Public download details will be added here after that work is complete.
+**当前状态：** Windows 安装与完整内容生产流程仍在验收。完成后会在这里补充公开下载方式。
 
-中文：入口统一叫“内容生产”。先选自己要做的事，再选平台；长文章和图文笔记按各自的形式处理，让运营人员知道接下来该点哪里。
+入口统一叫“内容生产”。先选自己要做的事，再选平台；长文章和图文笔记按各自的形式处理，让运营人员知道接下来该点哪里。
 
-### Codex 皮肤工坊 · Make the workspace feel like yours
+### Codex 皮肤工坊 · 让工作台更像自己
 
-The interface you look at for hours deserves some care. A theme should still let you read the task, see the changes, and understand the result.
+每天要看几个小时的界面，也值得花点心思。换一套皮肤之后，任务仍然要看得清，改动仍然要找得到，结果仍然要读得懂。
 
-The showcase uses screenshots from real Codex work, with tasks, files, and tests still in view. Open it to compare the themes and find the current collection.
+项目页使用真实 Codex 工作截图，任务、文件和测试都还在画面里。你可以直接比较不同皮肤，查看当前合集。
 
-**[See real workspace previews](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)**
+**[查看真实工作台预览](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins)**
 
-**原作与贡献 / Original work and contributions**
+**原作与贡献**
 
-皮肤工坊的原始应用由团队同事开发。Lydia 在同事原作基础上进行功能优化，并整理与扩充了数百款皮肤；原始开发与后续优化分别署名。
+皮肤工坊的原始应用由毕方团队同事开发。Lydia 在同事原作基础上进行功能优化，并整理与扩充了数百款皮肤；原始开发与后续优化分别署名。
 
-The original Skin Workshop application was developed by a BFTOOLS teammate. Lydia contributes feature enhancements and a collection of several hundred skins. Original development and later enhancements are credited separately.
+## 和团队一起把工具做好
 
+这些工具结合了产品工作与毕方开发者的技术经验。Lydia 参与产品方向、用户体验和公开产品页维护，目前重点负责运营工具的推广与用户沟通。
 
-## Made with the team
+想看她独立做的东西，可以到 [LydiaHub 个人主页](https://github.com/lydiahub2026)。那里从一个人正在卡住的事情开始：听不懂的消息、又一轮需求变更、没有下一步的询盘表，或下单前想核对的材料用量。
 
-These tools bring together product work and the experience of the BFTools developers. Lydia contributes product direction and international user experience, and maintains the public product pages.
+**[看看 Lydia 的小工具与网站](https://github.com/lydiahub2026#choose-by-the-problem)**
 
-Want to see what she builds independently? Her [LydiaHub profile](https://github.com/lydiahub2026) starts with the problem a person is trying to solve: an unclear message, another round of changed requirements, an inquiry sheet, or a materials purchase that needs checking.
+## 内容与社媒
 
-**[Explore Lydia's small tools and websites](https://github.com/lydiahub2026#按你现在卡住的事来选)**
+这个团队入口主要面向国内内容运营与工具使用场景。
 
-## Try a tool or tell us what gets in your way
+| 平台 | 账号 |
+| --- | --- |
+| 小红书 | Lydia的外贸笔记本 |
+| 抖音 | Lydia的AI笔记本 |
+| 微信公众号 | AI整顿职场 |
+| B站 | [AI整顿职场](https://space.bilibili.com/3546751994694369) |
 
-Open a product page for its current version and way to get started. For a BFTiles bug or feature request, use [BFTiles Issues](https://github.com/mercedesbestsupplier-maker/BFTiles/issues). For company information and official contact routes, visit [bifang.tools](https://bifang.tools/).
+## 试一个工具，或说说你卡在哪里
 
-中文：这里是毕方团队的产品集合。按你正在做的工作选择工具，产品页会写清获取方式、适用平台和当前版本。
+打开产品页，查看当前版本和上手方式。窗口排布的 Bug 或功能建议可以提交到 [BFTiles 问题反馈](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。团队信息与官方联系入口见 [毕方网站](https://bifang.tools/)。
+
+这里是毕方团队的产品集合。按你正在做的工作选择工具，产品页会写清获取方式、适用平台和当前版本。
 
 ---
 
-**A good tool gives you more time for the work you came to do.**
+**好工具，让你把更多时间留给原本要完成的事。**

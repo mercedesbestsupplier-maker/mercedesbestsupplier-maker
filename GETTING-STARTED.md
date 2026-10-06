@@ -1,31 +1,26 @@
-# 从这里开始 · 毕方 BFTOOLS 团队 / Getting started with BFTOOLS
+# 从这里开始 · 毕方 BFTOOLS 团队
 
 先看自己要完成哪件事。这个团队入口重点介绍毕方运营工具；窗口排布产品与协作项目仍保留原入口。
 
-Choose the tool for the work you need to do. This team page focuses on content-operations tools while retaining the window-layout and collaboration links.
-
-| Need | Start here | Current entry |
+| 你要做的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
-| Arrange many Windows windows | BFTiles | [Product guide](https://github.com/mercedesbestsupplier-maker/BFTiles); installer verification in progress |
-| Produce technical articles or image-and-text notes | 毕方内容生产助手 | Product information on the [profile](README.md); public download not yet available |
-| Customize a Codex workspace | 毕方 Codex 皮肤工坊 | [Real previews and acquisition details](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
+| 生产技术文章或图文笔记 | 毕方内容生产助手 | [团队主页](README.md)有产品说明；公开下载尚未开放 |
+| 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；安装包验收中 |
+| 定制 Codex 工作台外观 | 毕方 Codex 皮肤工坊 | [真实预览与获取说明](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 
-## BFTiles for Windows
+## Windows 窗口排布
 
-1. Read the [product guide](https://github.com/mercedesbestsupplier-maker/BFTiles) to see what the current version supports.
-2. Check [Releases](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) for a verified installer. There is no public GitHub installer release yet.
-3. When a release is available, use its version notes and checksum to identify the download.
-4. Report installation or use problems in the [issue tracker](https://github.com/mercedesbestsupplier-maker/BFTiles/issues).
+1. 先读[产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)，了解当前版本支持什么。
+2. 到[版本下载页](https://github.com/mercedesbestsupplier-maker/BFTiles/releases)查看是否已有验收后的安装包。目前还没有公开的 GitHub 安装包版本。
+3. 有可下载版本后，按版本说明与校验值确认下载文件。
+4. 安装或使用中遇到问题，可以提交到[问题反馈页](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。
 
-BFTiles is commercial, closed-source software developed by the BFTools team. Trial and subscription terms are described on its product page; confirm the final price in the checkout before paying.
+BFTiles 是毕方团队开发的商业闭源软件。试用与订阅规则见产品页；付款前以结算页显示的最终价格为准。
 
-## Other work
+## 其他作品
 
-For Lydia's independent projects and websites, visit [LydiaHub](https://github.com/lydiahub2026). For company information, visit [BFTools](https://bifang.tools/).
+Lydia 的个人独立项目与网站见 [LydiaHub](https://github.com/lydiahub2026)。团队信息见[毕方网站](https://bifang.tools/)。
 
+## 皮肤工坊的原作与优化
 
-## 皮肤工坊的原作与优化 / Skin Workshop credits
-
-原始应用由团队同事开发；Lydia 贡献功能优化，以及数百款皮肤的整理与扩充。个人优化版本和独立作品见 [LydiaHub](https://github.com/lydiahub2026)。
-
-The original application was developed by a teammate. Lydia contributes feature enhancements and the skin collection. Personal work: [LydiaHub](https://github.com/lydiahub2026#english).
+原始应用由毕方团队同事开发；Lydia 贡献功能优化，以及数百款皮肤的整理与扩充。个人优化版本和独立作品见 [LydiaHub](https://github.com/lydiahub2026)。
