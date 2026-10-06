@@ -4,7 +4,7 @@
 
 **团队产品与协作入口**
 
-这里主要介绍毕方运营工具和窗口排布产品；Lydia 负责运营工具的推广与用户沟通。个人独立作品与个人优化版本请访问 [LydiaHub](https://github.com/lydiahub2026)。
+这里主要介绍毕方运营工具和窗口排布产品；Lydia 负责运营工具的推广与用户沟通。个人独立作品与个人优化版本请访问 [LydiaTools](https://github.com/LydiaTools)。
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
@@ -17,7 +17,7 @@
 
 **窗口少找一会儿，流程少绕一圈，把时间留给真正要完成的事。**
 
-[按工作选工具](#products) · [从这里开始](GETTING-STARTED.md) · [团队网站](https://bifang.tools/) · [Lydia 的个人作品](https://github.com/lydiahub2026)
+[按工作选工具](#products) · [从这里开始](GETTING-STARTED.md) · [团队网站](https://bifang.tools/) · [Lydia 的个人作品](https://github.com/LydiaTools)
 
 </div>
 
@@ -71,9 +71,9 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 
 这些工具结合了产品工作与毕方开发者的技术经验。Lydia 参与产品方向、用户体验和公开产品页维护，目前重点负责运营工具的推广与用户沟通。
 
-想看她独立做的东西，可以到 [LydiaHub 个人主页](https://github.com/lydiahub2026)。那里从一个人正在卡住的事情开始：听不懂的消息、又一轮需求变更、没有下一步的询盘表，或下单前想核对的材料用量。
+想看她独立做的东西，可以到 [LydiaTools 个人主页](https://github.com/LydiaTools)。目前优先展示 [CoverCalc Pro 在线计算器](https://covercalcpro.com/#calculator) 和 [Browser Agent Blueprint 开源项目](https://github.com/LydiaTools/browser-agent-blueprint)；其他小工具也在个人主页按实际使用问题整理。
 
-**[看看 Lydia 的小工具与网站](https://github.com/lydiahub2026#choose-by-the-problem)**
+**[看看 Lydia 的小工具与网站](https://github.com/LydiaTools#choose-by-the-problem)**
 
 ## 内容与社媒
 
