@@ -1,13 +1,22 @@
-# 从这里开始 · 公司产品 BFTiles
+# Getting started with BFTools products
 
-1. 打开 [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles)，查看 Windows 窗口布局功能与适用版本。
-2. 在 [Releases](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) 核对当前发布与下载状态。
-3. 功能建议或使用问题提交到 [BFTiles Issues](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。
+Choose the tool for the work you need to do:
 
-BFTiles 是公司的商业产品。许可、价格和发布状态以项目页为准。
+| Need | Start here | Current entry |
+| --- | --- | --- |
+| Arrange many Windows windows | BFTiles | [Product guide](https://github.com/mercedesbestsupplier-maker/BFTiles); installer verification in progress |
+| Produce technical articles or image-and-text notes | 毕方内容生产助手 | Product information on the [profile](README.md); public download not yet available |
+| Customize a Codex workspace | 毕方 Codex 皮肤工坊 | [Real previews and acquisition details](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 
-## 找个人工具
+## BFTiles for Windows
 
-内容生产助手、Codex 皮肤工坊、桌面流转台及其他 Lydia 个人产品，请从 [LydiaHub 个人主页](https://github.com/lydiahub2026) 进入。部分项目仍使用现有仓库地址。
+1. Read the [product guide](https://github.com/mercedesbestsupplier-maker/BFTiles) to see what the current version supports.
+2. Check [Releases](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) for a verified installer. There is no public GitHub installer release yet.
+3. When a release is available, use its version notes and checksum to identify the download.
+4. Report installation or use problems in the [issue tracker](https://github.com/mercedesbestsupplier-maker/BFTiles/issues).
 
-[公司产品首页](README.md) · [个人作品主页](https://github.com/lydiahub2026) · [公司网站](https://bifang.tools/)
+BFTiles is commercial, closed-source software developed by the BFTools team. Trial and subscription terms are described on its product page; confirm the final price in the checkout before paying.
+
+## Other work
+
+For Lydia's independent projects and websites, visit [LydiaHub](https://github.com/lydiahub2026). For company information, visit [BFTools](https://bifang.tools/).
