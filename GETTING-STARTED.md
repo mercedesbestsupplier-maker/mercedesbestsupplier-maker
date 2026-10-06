@@ -17,10 +17,12 @@
 
 BFTiles 是毕方团队开发的商业闭源软件。试用与订阅规则见产品页；付款前以结算页显示的最终价格为准。
 
+窗口排布器原作者：[@dingzd1995](https://github.com/dingzd1995)。Lydia 参与产品方向、用户体验与公开产品页维护。
+
 ## 其他作品
 
 Lydia 的个人独立项目与网站见 [LydiaHub](https://github.com/lydiahub2026)。团队信息见[毕方网站](https://bifang.tools/)。
 
 ## 皮肤工坊的原作与优化
 
-原始应用由毕方团队同事开发；Lydia 贡献功能优化，以及数百款皮肤的整理与扩充。个人优化版本和独立作品见 [LydiaHub](https://github.com/lydiahub2026)。
+原始应用由毕方团队同事 [@luhaozwork](https://github.com/luhaozwork) 开发；Lydia 贡献功能优化，以及数百款皮肤的整理与扩充。个人优化版本和独立作品见 [LydiaHub](https://github.com/lydiahub2026)。
