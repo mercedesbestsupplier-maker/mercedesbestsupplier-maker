@@ -82,7 +82,7 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 | 平台 | 账号 |
 | --- | --- |
 | 小红书 | [Lydia的外贸笔记本](https://www.xiaohongshu.com/user/profile/68f043c6000000003702959a) |
-| 抖音 | Lydia的AI笔记本 |
+| 抖音 | [Lydia的AI笔记本](https://www.douyin.com/user/MS4wLjABAAAAgfhRbSYeh3pugTWQPrVaiV7kw_Y-CV5roTsWp2LHTiw) |
 | 微信公众号 | [AI整顿职场 · 文章入口](https://mp.weixin.qq.com/s/HPxOaSPal5UNvMfi5Y74Dg) |
 | B站 | [AI整顿职场](https://space.bilibili.com/3546751994694369) |
 
