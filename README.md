@@ -57,7 +57,7 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 
 **当前状态：** Windows 安装与完整内容生产流程仍在验收。完成后会在这里补充公开下载方式。
 
-**[查看项目、下载与源码状态](products/content-production-assistant/README.md)** · [提交内容生产场景](https://github.com/mercedesbestsupplier-maker/mercedesbestsupplier-maker/issues/new?template=content-production-feedback.md) · [团队源码仓库（仅限已授权成员）](https://github.com/BFTools366/bifang-content-production-assistant)
+**[查看项目、下载与源码状态](products/content-production-assistant/README.md)** · [提交内容生产场景](https://github.com/mercedesbestsupplier-maker/mercedesbestsupplier-maker/issues/new?template=content-production-feedback.md) · 源码仓库为私有，仅限授权团队成员访问
 
 入口统一叫“内容生产”。先选自己要做的事，再选平台；长文章和图文笔记按各自的形式处理，让运营人员知道接下来该点哪里。
 
