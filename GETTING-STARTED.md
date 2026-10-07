@@ -5,14 +5,14 @@
 | 你要做的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
 | 生产技术文章或图文笔记 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；公开下载尚未开放 |
-| 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；安装包验收中 |
+| 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；[官网获取 2.3.5](https://bifang.tools/window-layout-assistant/)；设备实测中 |
 | 定制 Codex 工作台外观 | 毕方 Codex 皮肤工坊 | [真实预览与获取说明](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 
 ## Windows 窗口排布
 
 1. 先读[产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)，了解当前版本支持什么。
-2. 到[版本下载页](https://github.com/mercedesbestsupplier-maker/BFTiles/releases)查看是否已有验收后的安装包。目前还没有公开的 GitHub 安装包版本。
-3. 有可下载版本后，按版本说明与校验值确认下载文件。
+2. 到[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/)查看 2.3.5 并获取 Windows 安装包。
+3. [GitHub 版本下载页](https://github.com/mercedesbestsupplier-maker/BFTiles/releases)目前没有安装包；若后续发布，按该页的版本说明与校验值核对。
 4. 安装或使用中遇到问题，可以提交到[问题反馈页](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。
 
 BFTiles 是毕方团队开发的商业闭源软件。试用与订阅规则见产品页；付款前以结算页显示的最终价格为准。

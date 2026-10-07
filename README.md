@@ -34,7 +34,7 @@
 | 你可能正在遇到的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
 | 要做内容，希望知道先从哪一步开始 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；Windows 完整流程验收中 |
-| 花太多时间挪窗口、找窗口 | [BFTiles 窗口排布](https://github.com/mercedesbestsupplier-maker/BFTiles) | Windows 产品介绍；GitHub 安装包待发布 |
+| 花太多时间挪窗口、找窗口 | [BFTiles 窗口排布](https://github.com/mercedesbestsupplier-maker/BFTiles) | [官网获取 Windows 2.3.5](https://bifang.tools/window-layout-assistant/)；GitHub 安装包待发布 |
 | 每天面对这个工作台，想让它更像自己 | [Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | 真实运行预览与皮肤合集 |
 
 ### BFTiles · 把窗口排好，下次接着用
@@ -43,9 +43,9 @@
 
 BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把好用的布局保存下来，下次做同样的事时继续用。你可以筛选要参与排布的窗口，再调整大小、位置和间距。
 
-**[查看窗口排布功能](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [查看下载状态](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [反馈问题或想法](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
+**[查看窗口排布功能](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [官网获取 Windows 2.3.5](https://bifang.tools/window-layout-assistant/) · [查看 GitHub 下载状态](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [反馈问题或想法](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
 
-产品介绍已公开。Windows 安装包完成设备验收后，会发布到 GitHub 的版本下载页。BFTiles 是毕方团队开发的商业软件。
+官网已公开 2.3.5 下载入口；GitHub 版本下载页目前没有安装包，设备实测仍在验收。BFTiles 是毕方团队开发的商业软件。
 
 **原作者：** [@dingzd1995](https://github.com/dingzd1995)。Lydia 参与产品方向、用户体验与公开产品页维护。
 
