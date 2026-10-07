@@ -24,4 +24,8 @@ AI 生成由使用者接入自己的服务。工具不附带 API Key 或免费�
 
 ## 负责与反馈
 
-这是毕方团队产品。Lydia 负责运营工具的推广与用户沟通，产品与源码发布由团队维护。国内更新可从[团队主页的社媒入口](../../README.md#内容与社媒)找到。
+这是毕方团队产品。Lydia 负责运营工具的推广与用户沟通，产品与源码发布由团队维护。
+
+如果你正在做技术文章或图文笔记，可以[提交具体的内容生产场景](https://github.com/mercedesbestsupplier-maker/mercedesbestsupplier-maker/issues/new?template=content-production-feedback.md)：写明平台、卡住的步骤、现在怎样处理，以及想得到什么结果。已参加内部测试的使用者，也可以补充版本和复现步骤。反馈会作为公开 GitHub Issue 出现；提交场景不代表获得内部测试资格。
+
+不使用 GitHub 时，国内更新与交流可从[团队主页的社媒入口](../../README.md#内容与社媒)找到。
