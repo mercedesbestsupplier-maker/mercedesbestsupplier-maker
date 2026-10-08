@@ -5,13 +5,13 @@
 | 你要做的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
 | 生产 CSDN 技术文章或百家号长文章 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；公开下载尚未开放 |
-| 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；[官网获取 2.3.5](https://bifang.tools/window-layout-assistant/)；设备实测中 |
+| 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；[官网获取 2.3.5](https://bifang.tools/window-layout-assistant/?utm_source=github&utm_medium=referral&utm_campaign=bftiles&utm_content=team_getting_started)；设备实测中 |
 | 定制 Codex 工作台外观 | 毕方 Codex 皮肤工坊 | [真实预览与获取说明](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 
 ## Windows 窗口排布
 
 1. 先读[产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)，了解当前版本支持什么。
-2. 到[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/)查看 2.3.5 并获取 Windows 安装包。
+2. 到[毕方官网 BFTiles 产品页](https://bifang.tools/window-layout-assistant/?utm_source=github&utm_medium=referral&utm_campaign=bftiles&utm_content=team_getting_started)查看 2.3.5 并获取 Windows 安装包。
 3. [GitHub 版本下载页](https://github.com/mercedesbestsupplier-maker/BFTiles/releases)目前没有安装包；若后续发布，按该页的版本说明与校验值核对。
 4. 安装或使用中遇到问题，可以提交到[问题反馈页](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。
 
