@@ -33,7 +33,7 @@
 
 | 你可能正在遇到的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
-| 要做内容，希望知道先从哪一步开始 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；Windows 完整流程验收中 |
+| 要写 CSDN 技术文章或百家号长文章，想理清从选题到成稿的步骤 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；Windows 完整流程验收中 |
 | 花太多时间挪窗口、找窗口 | [BFTiles 窗口排布](https://github.com/mercedesbestsupplier-maker/BFTiles) | [官网产品页](https://bifang.tools/window-layout-assistant/) · [直接下载 Windows 2.3.5](https://bifang.tools/BFTiles_2.3.5_x64-setup.exe)；GitHub 安装包待发布 |
 | 每天面对这个工作台，想让它更像自己 | [Codex 皮肤工坊](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) | 真实运行预览与皮肤合集 |
 
@@ -53,13 +53,13 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 
 内容运营需要一条走得下去的路径：找对标、选方向、出草稿、审内容，再保存或导出结果。
 
-工具围绕这条流程组织入口。CSDN 技术文章、百家号长文章、小红书图文笔记，分别有适合自己的内容生产路径。用户在设置中接入自己的 AI 接口，可以从一个想法、一份参考或已经保存的风格开始。
+当前团队版面向 CSDN 技术文章和百家号长文章。用户在设置中接入自己的 AI 接口，可以从一个想法、一份参考或已经保存的风格开始，再按文章平台检查和修改结果。
 
 **当前状态：** Windows 安装与完整内容生产流程仍在验收。完成后会在这里补充公开下载方式。
 
 **[查看项目、下载与源码状态](products/content-production-assistant/README.md)** · [提交内容生产场景](https://github.com/mercedesbestsupplier-maker/mercedesbestsupplier-maker/issues/new?template=content-production-feedback.md) · 源码仓库为私有，仅限授权团队成员访问
 
-入口统一叫“内容生产”。先选自己要做的事，再选平台；长文章和图文笔记按各自的形式处理，让运营人员知道接下来该点哪里。
+入口统一叫“内容生产”。先选文章任务和平台，再检查生成草稿，让运营人员知道接下来该点哪里。小红书不在当前团队仓库的发行范围。
 
 ### Codex 皮肤工坊 · 让工作台更像自己
 

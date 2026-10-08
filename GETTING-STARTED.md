@@ -4,7 +4,7 @@
 
 | 你要做的事 | 从这里开始 | 当前入口 |
 | --- | --- | --- |
-| 生产技术文章或图文笔记 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；公开下载尚未开放 |
+| 生产 CSDN 技术文章或百家号长文章 | [毕方内容生产助手](products/content-production-assistant/README.md) | [查看下载与源码状态](products/content-production-assistant/README.md#下载与源码状态)；公开下载尚未开放 |
 | 排布多个 Windows 窗口 | BFTiles 窗口排布 | [产品介绍](https://github.com/mercedesbestsupplier-maker/BFTiles)；[官网获取 2.3.5](https://bifang.tools/window-layout-assistant/)；设备实测中 |
 | 定制 Codex 工作台外观 | 毕方 Codex 皮肤工坊 | [真实预览与获取说明](https://github.com/mercedesbestsupplier-maker/bifang-codex-skins) |
 
