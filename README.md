@@ -47,6 +47,8 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 
 官网已公开 2.3.5 下载入口；GitHub 版本下载页目前没有安装包，设备实测仍在验收。官网当前的结算详情入口不可用、币种表述不一致，见 [试用与付款状态](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。BFTiles 是毕方团队开发的商业软件。
 
+想咨询试用或购买，可[邮件联系毕方团队](mailto:service@bifang.tools?subject=BFTiles%20GitHub%20%E5%9B%A2%E9%98%9F%E4%B8%BB%E9%A1%B5%E5%92%A8%E8%AF%A2)；付款前请核对最终币种、金额和期限。
+
 **原作者：** [@dingzd1995](https://github.com/dingzd1995)。Lydia 参与产品方向、用户体验与公开产品页维护。
 
 ### 毕方内容生产助手 · 知道接下来该做什么
