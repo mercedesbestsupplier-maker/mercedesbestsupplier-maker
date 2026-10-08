@@ -17,6 +17,8 @@
 
 BFTiles 是毕方团队开发的商业闭源软件。官网已提供 2.3.5 下载，但试用和付款流程仍待验收；2026-10-08 核查时，产品页同时写有 USD 与 SGD 年费，结算详情链接返回 404。当前不能从这个入口确认最终币种、试用期限或完成付款，状态与后续更新见 [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。
 
+需要确认试用、最终价格或购买方式，可[邮件咨询毕方团队](mailto:service@bifang.tools?subject=BFTiles%20GitHub%20%E4%B8%8A%E6%89%8B%E9%A1%B5%E5%92%A8%E8%AF%A2)；付款前请核对币种、金额和期限。
+
 窗口排布器原作者：[@dingzd1995](https://github.com/dingzd1995)。Lydia 参与产品方向、用户体验与公开产品页维护。
 
 ## 其他作品
