@@ -45,7 +45,7 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 
 **[查看窗口排布功能](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [官网产品页](https://bifang.tools/window-layout-assistant/) · [直接下载 Windows 2.3.5](https://bifang.tools/BFTiles_2.3.5_x64-setup.exe) · [查看 GitHub 下载状态](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [反馈问题或想法](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
 
-官网已公开 2.3.5 下载入口；GitHub 版本下载页目前没有安装包，设备实测仍在验收。BFTiles 是毕方团队开发的商业软件。
+官网已公开 2.3.5 下载入口；GitHub 版本下载页目前没有安装包，设备实测仍在验收。官网当前的结算详情入口不可用、币种表述不一致，见 [试用与付款状态](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。BFTiles 是毕方团队开发的商业软件。
 
 **原作者：** [@dingzd1995](https://github.com/dingzd1995)。Lydia 参与产品方向、用户体验与公开产品页维护。
 

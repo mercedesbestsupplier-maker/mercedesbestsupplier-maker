@@ -15,7 +15,7 @@
 3. [GitHub 版本下载页](https://github.com/mercedesbestsupplier-maker/BFTiles/releases)目前没有安装包；若后续发布，按该页的版本说明与校验值核对。
 4. 安装或使用中遇到问题，可以提交到[问题反馈页](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。
 
-BFTiles 是毕方团队开发的商业闭源软件。试用与订阅规则见产品页；付款前以结算页显示的最终价格为准。
+BFTiles 是毕方团队开发的商业闭源软件。官网已提供 2.3.5 下载，但试用和付款流程仍待验收；2026-10-08 核查时，产品页同时写有 USD 与 SGD 年费，结算详情链接返回 404。当前不能从这个入口确认最终币种、试用期限或完成付款，状态与后续更新见 [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。
 
 窗口排布器原作者：[@dingzd1995](https://github.com/dingzd1995)。Lydia 参与产品方向、用户体验与公开产品页维护。
 
