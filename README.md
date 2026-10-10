@@ -45,7 +45,7 @@ BFTiles 可以将选中的 Windows 窗口按网格、堆叠或层叠排列。把
 
 **[查看窗口排布功能](https://github.com/mercedesbestsupplier-maker/BFTiles)** · [官网产品页](https://bifang.tools/window-layout-assistant/?utm_source=github&utm_medium=referral&utm_campaign=bftiles&utm_content=team_profile) · [直接下载 Windows 2.3.5](https://bifang.tools/BFTiles_2.3.5_x64-setup.exe?utm_source=github&utm_medium=referral&utm_campaign=bftiles&utm_content=team_profile_direct_download) · [查看 GitHub 下载状态](https://github.com/mercedesbestsupplier-maker/BFTiles/releases) · [反馈问题或想法](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)
 
-官网已公开 2.3.5 下载入口；GitHub 版本下载页目前没有安装包，设备实测仍在验收。官网产品页和[结账说明页](https://bifang.tools/checkout/)目前均显示 USD 9.90/year；产品页仍提示“Complete payment on our checkout page”，但结账页实际上只有下载说明、没有支付表单，尚不能完成在线购买。详情见 [试用与付款状态](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。BFTiles 是毕方团队开发的商业软件。
+官网已公开 2.3.5 下载入口；GitHub 版本下载页目前没有安装包，设备实测仍在验收。官网产品页提示前往结账页付款；当前结账页展示产品摘要与下载步骤，没有付款表单或可完成交易的入口，并注明正式付款上线前会公布最终价格与账单信息。当前无法在线购买；收款平台和最终付款条款尚未核实，详情见 [试用与付款状态](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。BFTiles 是毕方团队开发的商业软件。
 
 想咨询试用或购买，可[邮件联系毕方团队](mailto:service@bifang.tools?subject=BFTiles%20GitHub%20%E5%9B%A2%E9%98%9F%E4%B8%BB%E9%A1%B5%E5%92%A8%E8%AF%A2)；付款前请核对最终币种、金额和期限。
 
