@@ -15,7 +15,7 @@
 3. [GitHub 版本下载页](https://github.com/mercedesbestsupplier-maker/BFTiles/releases)目前没有安装包；若后续发布，按该页的版本说明与校验值核对。
 4. 安装或使用中遇到问题，可以提交到[问题反馈页](https://github.com/mercedesbestsupplier-maker/BFTiles/issues)。
 
-BFTiles 是毕方团队开发的商业闭源软件。官网已提供 2.3.5 下载，但试用和付款流程仍待验收；2026-10-08 核查时，产品页同时写有 USD 与 SGD 年费，结算详情链接返回 404。当前不能从这个入口确认最终币种、试用期限或完成付款，状态与后续更新见 [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。
+BFTiles 是毕方团队开发的商业闭源软件。官网已提供 2.3.5 下载。产品页显示免费试用和 USD 9.90/year，并引导前往结账页；结账页当前展示订单摘要与下载步骤，没有付款表单或可完成交易的入口，并说明正式付款上线前会公布最终价格和账单信息。当前无法在线购买；收款平台、最终价格、试用期限和付款条件尚未核实。状态见 [BFTiles 产品页](https://github.com/mercedesbestsupplier-maker/BFTiles#试用与付款状态)。
 
 需要确认试用、最终价格或购买方式，可[邮件咨询毕方团队](mailto:service@bifang.tools?subject=BFTiles%20GitHub%20%E4%B8%8A%E6%89%8B%E9%A1%B5%E5%92%A8%E8%AF%A2)；付款前请核对币种、金额和期限。
 
